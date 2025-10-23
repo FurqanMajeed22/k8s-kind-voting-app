@@ -3,8 +3,8 @@
 A comprehensive guide for setting up a Kubernetes cluster using Kind on an AWS EC2 instance, installing and configuring Argo CD, and deploying applications using Argo CD.
 
 ## Overview
-395616637904 
-iP4_0o6u9SM!JlyaS${E
+362649471889
+woWr}I}u}IfV9hN64@L7
 This guide covers the steps to:
 - Launch an AWS EC2 instance.
 - Install Docker and Kind.
